@@ -1,0 +1,23 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.buttonHolder { 
+    text-align: center; 
+    background-color:whitesmoke;
+}
+.footer {
+    text-align: center;
+    display: inline-flex;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 67.5%;
+
+}
+.footerWritings {
+    background-color: teal;
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+}
